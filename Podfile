@@ -4,6 +4,6 @@ use_frameworks!
 
 target 'codingTask' do
   
-  pod 'Kingfisher', '7.10.0'
+  pod 'Kingfisher', '7.8.1'
 
 end
